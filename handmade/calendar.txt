@@ -1,0 +1,12 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+odpt.Calendar:Monday,1,0,0,0,0,0,0,20180415,20191220
+odpt.Calendar:Tuesday,0,1,0,0,0,0,0,20180415,20191220
+odpt.Calendar:Wednesday,0,0,1,0,0,0,0,20180415,20191220
+odpt.Calendar:Thursday,0,0,0,1,0,0,0,20180415,20191220
+odpt.Calendar:Friday,0,0,0,0,1,0,0,20180415,20191220
+odpt.Calendar:Saturday,0,0,0,0,0,1,0,20180415,20191220
+odpt.Calendar:Sunday,0,0,0,0,0,0,1,20180415,20191220
+odpt.Calendar:Weekday,1,1,1,1,1,0,0,20180415,20191220
+odpt.Calendar:Holiday,0,0,0,0,0,1,1,20180415,20191220
+odpt.Calendar:SaturdayHoliday,0,0,0,0,0,1,1,20180415,20191220
+odpt.Calendar:Specific.Keio.SaturdayHolidayOnRaceDay,0,0,0,0,0,0,1,20180415,20191220

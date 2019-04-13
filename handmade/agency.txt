@@ -1,0 +1,6 @@
+"agency_id","agency_name","agency_url","agency_timezone","agency_lang","agency_phone","agency_fare_url"
+"odpt.Operator:Keio","京王電鉄","https://www.keio.co.jp/train/","Asia/Tokyo","ja","042-337-3112 ",""
+"odpt.Operator:Toei","東京都交通局","https://www.kotsu.metro.tokyo.jp/","Asia/Tokyo","ja","03-3816-5700",""
+"odpt.Operator:TokyoMetro","東京メトロ","https://www.tokyometro.jp/index.html","Asia/Tokyo","ja","0120-104-106",""
+"odpt.Operator:JR-East","JR東日本","https://www.jreast.co.jp/","Asia/Tokyo","ja","050-2016-1651",""
+"odpt.Operator:TWR","東京高速臨海鉄道","https://www.twr.co.jp/","Asia/Tokyo","ja","",""
